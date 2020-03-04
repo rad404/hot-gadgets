@@ -1,0 +1,37 @@
+.white-bg {
+    background-color: #FFFFFF;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.smartphone {
+    color: yellow;
+}
+
+.laptop {
+    color: yellow;
+}
+
+.carousel-indicators {
+    background-color: yellow;
+}
+
+.center {
+    text-align: center;
+}
